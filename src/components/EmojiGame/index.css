@@ -1,0 +1,7 @@
+/* Write your code here. */
+.app-container{
+    display: flex;
+    flex-direction: column;
+    background-image: linear-gradient(to right, #9796f0,  #fbc7d4);
+    min-height: 100vh;
+}
